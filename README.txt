@@ -1,6 +1,6 @@
 The code is in index.php and vote.php. 
 authentication.css and vote.css are stytling code. 
-This app is hosted on http://vote4fruit.com/.
+
 
 Voting App : Vote for the favorite fruit
 
